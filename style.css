@@ -118,6 +118,7 @@ li span{
     z-index: 3;
 
 }
+
 .two{
     background-color:#2a6fd7;
     width:200px;
@@ -139,6 +140,6 @@ li span{
 }
 footer{
     font: size 10px;
-    color:#dddddd;
+    color:#0a0909;
     text-align: center;
 }
