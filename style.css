@@ -137,3 +137,8 @@ li span{
     left:120px;
     z-index: 1;
 }
+footer{
+    font: size 10px;
+    color:#dddddd;
+    text-align: center;
+}
